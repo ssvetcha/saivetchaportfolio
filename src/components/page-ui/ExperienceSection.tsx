@@ -30,10 +30,13 @@ const experience = [
         title: 'Tabner Inc ',
         description: (
             <ul className="list-disc">
-                <li>Assisting in the design, development, and maintenance of web applications across both front-end and back-end technologies for new product development. 
+                <li>
+                    Assisting in the design, development, and maintenance of web applications across both front-end and back-end technologies for new
+                    product development.
                 </li>
                 <li>
-                    Wrote clean, scalable code, collaborated with senior developers and cross-functional teams, and troubleshooted issues to ensure optimal performance.
+                    Wrote clean, scalable code, collaborated with senior developers and cross-functional teams, and troubleshooted issues to ensure
+                    optimal performance.
                 </li>
             </ul>
         ),
@@ -43,12 +46,8 @@ const experience = [
         title: 'Mercor',
         description: (
             <ul className="list-disc">
-                <li>
-                    Applied mathematical and statistical models to analyze complex datasets.
-                </li>
-                <li>
-                    Created and Researched predictive models and worked on business strategy.
-                </li>
+                <li>Applied mathematical and statistical models to analyze complex datasets.</li>
+                <li>Created and Researched predictive models and worked on business strategy.</li>
                 <li>Delivered high-quality reports to project lead and conducted data manipulation using MATLAB. </li>
             </ul>
         ),
@@ -70,12 +69,9 @@ const experience = [
         description: (
             <ul className="list-disc">
                 <li>Education Learning: Understanding Quantitative Analysis, Markets and Trading</li>
-                <li>
-                    Quantitative Interview Training: Market Making and Probability
-                    $200k AUM , 6.3% acceptance rate and monthly reports.
-                </li>
+                <li>Quantitative Interview Training: Market Making and Probability $200k AUM , 6.3% acceptance rate and monthly reports.</li>
             </ul>
         ),
-        badge:'Quantitative Analyst/Jan 2025 - Present'
+        badge: 'Quantitative Analyst/Jan 2025 - Present'
     }
 ];
