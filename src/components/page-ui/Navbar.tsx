@@ -30,18 +30,18 @@ function NavbarComponent({ className }: { className?: string }) {
                 </MenuItem>
                 <MenuItem setActive={setActive} active={active} item="Social">
                     <div className="flex flex-col space-y-4 text-sm">
-                        <HoveredLink href="https://github.com/spojskic" rel="noopener noreferrer" target="_blank">
+                        <HoveredLink href="https://github.com/ssvetcha" rel="noopener noreferrer" target="_blank">
                             <GitHubLogoIcon className="mr-1" /> Github
                         </HoveredLink>
-                        <HoveredLink href="https://www.linkedin.com/in/mrpojskic/" rel="noopener noreferrer" target="_blank">
+                        <HoveredLink href="https://www.linkedin.com/in/sai-sathvik-vetcha/" rel="noopener noreferrer" target="_blank">
                             <LinkedInLogoIcon className="mr-1" /> Linkedin
                         </HoveredLink>
-                        <HoveredLink href="https://twitter.com/magicpojska" rel="noopener noreferrer" target="_blank">
+                        <HoveredLink href="https://x.com/SaiVetcha249285" rel="noopener noreferrer" target="_blank">
                             <TwitterLogoIcon className="mr-1" />
                             X/Twitter
                         </HoveredLink>
-                        <HoveredLink href="https://safetpojskic.netlify.app/" rel="noopener noreferrer" target="_blank">
-                            <VercelLogoIcon className="mr-1" /> Old Portfolio
+                        <HoveredLink href="discordapp.com/users/Sai" rel="noopener noreferrer" target="_blank">
+                            <VercelLogoIcon className="mr-1" /> Discord
                         </HoveredLink>
                     </div>
                 </MenuItem>

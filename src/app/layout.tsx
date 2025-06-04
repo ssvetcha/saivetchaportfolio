@@ -11,22 +11,22 @@ import { ThemeProvider } from '@/components/ui/theme-provider';
 const spaceGrotesk = Space_Grotesk({ subsets: ['latin'] });
 
 export const metadata: Metadata = {
-    metadataBase: new URL('https://safetpojskic.com'),
-    title: 'Safet Pojskic',
+    metadataBase: new URL('https://saivetcha.com'),
+    title: 'Sai Vetcha',
     description: 'Welcome to my personal portfolio!',
-    applicationName: 'Safet Pojskic',
-    keywords: ['Safet Pojskic', 'portfolio', 'personal', 'website', 'developer', 'designer', 'engineer', 'software', 'engineer'],
+    applicationName: 'Sai Vetcha',
+    keywords: ['Sai Vetcha', 'portfolio', 'personal', 'website', 'developer', 'designer', 'engineer', 'software', 'engineer'],
     openGraph: {
-        siteName: 'Safet Pojskic',
-        title: 'Safet Pojskic',
+        siteName: 'Sai Vetcha',
+        title: 'Sai Vetcha',
         description: 'Welcome to my personal portfolio!',
         type: 'website',
         images: ['/opengraph-image.png']
     },
     twitter: {
         card: 'summary_large_image',
-        site: '@safetpojskic',
-        title: 'Safet Pojskic',
+        site: '@saivetcha',
+        title: 'Sai Vetcha',
         description: 'Welcome to my personal portfolio!',
         images: ['/opengraph-image.png']
     },
@@ -35,34 +35,34 @@ export const metadata: Metadata = {
             rel: 'icon',
             type: 'image/png',
             sizes: '192x192',
-            url: '/favicon/android-chrome-192x192.png'
+            url: '/favicon/saivetcha192x192.png'
         },
         {
             rel: 'icon',
             type: 'image/png',
             sizes: '512x512',
-            url: '/favicon/android-chrome-512x512.png'
+            url: '/favicon/saivetcha512x512.png'
         },
         {
             rel: 'apple-touch-icon',
-            url: '/favicon/apple-touch-icon.png'
+            url: '/favicon/saivetcha.png'
         },
         {
             rel: 'icon',
             type: 'image/x-icon',
-            url: '/favicon/favicon.ico'
+            url: '/favicon/saivetcha.ico'
         },
         {
             rel: 'icon',
             type: 'image/png',
             sizes: '16x16',
-            url: '/favicon/favicon-16x16.png'
+            url: '/favicon/saivetcha16x16.png'
         },
         {
             rel: 'icon',
             type: 'image/png',
             sizes: '32x32',
-            url: '/favicon/favicon-32x32.png'
+            url: '/favicon/saivetcha32x32.png'
         }
     ]
 };

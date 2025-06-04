@@ -1,8 +1,7 @@
 import Link from 'next/link';
 import React from 'react';
 import { FaJava, FaReact } from 'react-icons/fa';
-import { SiPostgresql, SiSpringboot, SiTailwindcss } from 'react-icons/si';
-import { TbBrandNextjs } from 'react-icons/tb';
+import { SiPython, SiCplusplus, SiTensorflow, SiSwift } from 'react-icons/si';
 
 import { EvervaultCard, Icon } from '@/components/ui/evervault-card';
 
@@ -39,28 +38,29 @@ const skills = [
         icon: <FaReact />
     },
     {
-        title: 'Next.js',
-        link: 'https://nextjs.org',
-        icon: <TbBrandNextjs />
+        title: 'Python',
+        link: 'https://www.python.org/',
+        icon: <SiPython />
     },
     {
-        title: 'Tailwind',
-        link: 'https://tailwindcss.com',
-        icon: <SiTailwindcss />
+        title: 'C++',
+        link: 'https://isocpp.org/',
+        icon: <SiCplusplus />
     },
     {
         title: 'Java',
-        link: 'https://www.oracle.com/java/',
+        link: 'https://www.java.com/en/',
         icon: <FaJava />
     },
     {
-        title: 'Spring Boot',
-        link: 'https://spring.io/projects/spring-boot',
-        icon: <SiSpringboot />
+        title: 'TensorFlow',
+        link: 'https://www.tensorflow.org/',
+        icon: <SiTensorflow />
     },
     {
-        title: 'PostgreSQL',
-        link: 'https://www.postgresql.org',
-        icon: <SiPostgresql />
+        title: 'Swift',
+        link: 'https://developer.apple.com/swift/',
+        icon: <SiSwift />
     }
 ];
+

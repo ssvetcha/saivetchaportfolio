@@ -27,57 +27,55 @@ export function ExperienceSection() {
 
 const experience = [
     {
-        title: 'Pickleball.com',
+        title: 'Tabner Inc ',
         description: (
             <ul className="list-disc">
-                <li>Developed a full-stack enterprise applications using React and Nextjs.</li>
+                <li>Assisting in the design, development, and maintenance of web applications across both front-end and back-end technologies for new product development. 
+                </li>
                 <li>
-                    Lead the frontend development team, focusing on creating, improving, and fine-tuning web applications to make them fast and
-                    reliable. My job includes planning our technical approaches, guiding the team, and actively coding and reviewing code.
+                    Wrote clean, scalable code, collaborated with senior developers and cross-functional teams, and troubleshooted issues to ensure optimal performance.
                 </li>
             </ul>
         ),
-        badge: 'Software Engineer/Jan 2024 - Present'
+        badge: 'Junior Software Engineering Intern/May 2025 - Aug 2025'
     },
     {
-        title: 'Bosnia and Herzegovina Futures Foundation',
+        title: 'Mercor',
         description: (
             <ul className="list-disc">
                 <li>
-                    Actively engaged in personal development, focusing on enhancing my soft skills and public speaking abilities under the guidance of
-                    experienced mentors.
+                    Applied mathematical and statistical models to analyze complex datasets.
                 </li>
                 <li>
-                    Transitioned into a mentorship role, where I guided high school students in developing their soft skills and provided guidance in
-                    career planning and decision-making.
+                    Created and Researched predictive models and worked on business strategy.
                 </li>
-                <li>Volunteered in web development team creating fls.ba info website</li>
+                <li>Delivered high-quality reports to project lead and conducted data manipulation using MATLAB. </li>
             </ul>
         ),
-        badge: 'Junior -> Senior -> Alumni/Sep 2021 – Present'
+        badge: 'Math Intelligence Analyst/Feb 2025 - Present'
     },
     {
-        title: 'Atlantbh',
+        title: 'Cohere for AI',
         description: (
             <ul className="list-disc">
-                <li>Developed a full-stack enterprise applications using React, PostgreSQL and Docker.</li>
-                <li>Conducted code reviews, contributing to maintaining high standards of code quality and team collaboration.</li>
-                <li>Provided mentorship to two IT college students, enhancing their practical software engineering skills.</li>
+                <li>Long Context Techniques and Models</li>
+                <li>Multilingual Long Context Reasoning Benchmark (CoAuthoring Paper).</li>
+                <li>Participating in weekly meetings, creating machine learning models, and note-taking on PDEs.</li>
             </ul>
         ),
-        badge: 'Junior Software Engineer/Jun 2022 - Jan 2024'
+        badge: 'Research Fellow/Jan 2025 - Present'
     },
     {
-        title: 'Atlantbh (Intenship)',
+        title: 'Velocity Labs',
         description: (
             <ul className="list-disc">
-                <li>Developed full-stack applications with React.js and Spring Boot.</li>
+                <li>Education Learning: Understanding Quantitative Analysis, Markets and Trading</li>
                 <li>
-                    Implemented essential software development practices such as GitHub for version control, Maven for project management, JUnit for
-                    testing, and applied design patterns and MVC architecture.
+                    Quantitative Interview Training: Market Making and Probability
+                    $200k AUM , 6.3% acceptance rate and monthly reports.
                 </li>
             </ul>
         ),
-        badge: 'Full Stack Developer/Feb 2022 - May 2022'
+        badge:'Quantitative Analyst/Jan 2025 - Present'
     }
 ];

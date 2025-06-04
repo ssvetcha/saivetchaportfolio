@@ -8,50 +8,50 @@ export function ProjectsSection() {
 
 const products = [
     {
-        title: 'Mern Memories',
-        link: 'https://github.com/spojskic/mern-memories',
-        thumbnail: '/projects/mern-memories.png'
+        title: 'Tank Game',
+        link: 'https://docs.google.com/document/d/1_udBcOWeVUR4a_Zw1cZV6AA2RPTNop8x0gKVO7XElzs/edit?usp=sharing',
+        thumbnail: '/projects/Tank.png'
     },
     {
-        title: 'Next Event',
-        link: 'https://github.com/spojskic/next-dj-events-frontend',
-        thumbnail: '/projects/next-event.png'
+        title: 'DeGloves',
+        link: 'https://docs.google.com/document/d/1M_d4QILZKQtYu-xbdfRX2BDuEGKXVA5qZ-E8V178hus/edit?usp=sharing',
+        thumbnail: '/projects/Degloves.png'
     },
     {
-        title: 'Devspace',
-        link: 'https://github.com/spojskic/next-devspace-blog',
-        thumbnail: '/projects/devspace.png'
-    },
-
-    {
-        title: 'Google Clone',
-        link: 'https://github.com/MagicPojska/gulululgl-search-clone',
-        thumbnail: '/projects/google-clone.png'
-    },
-    {
-        title: 'Portfolio V1',
-        link: 'https://safetpojskic.netlify.app/',
-        thumbnail: '/projects/old-portfolio.png'
-    },
-    {
-        title: 'Dresscode',
-        link: '',
-        thumbnail: '/projects/dresscode.png'
+        title: 'Bridge Initiative',
+        link: 'https://docs.google.com/document/d/12IzkCjJdNUYAOW1_jVPcmaiKgoSkCwRt6aFa5QZSv2I/edit?usp=sharing',
+        thumbnail: '/projects/mit-solve.png'
     },
 
     {
-        title: 'Portfolio V2',
-        link: 'https://safetpojskic.com',
-        thumbnail: '/projects/portfoliov2.png'
+        title: 'Snow Cover & Temperature Trends in the Colorado Rockies',
+        link: 'https://code.earthengine.google.com/4aa88a3a11b39389c18df64faca285bd ',
+        thumbnail: '/projects/Colorado Rocky.png'
     },
     {
-        title: 'Music App',
-        link: 'https://github.com/spojskic/my-music-app',
-        thumbnail: '/projects/music-app.png'
+        title: 'Mathematically Applying Poseuilles Law to Optimize Blood Vessel Branching',
+        link: 'https://docs.google.com/document/d/1d6bNRSuecMlVhxW1j_3APhBaHcW2zJm_UF4AA5PLuV0/edit?usp=sharing',
+        thumbnail: '/projects/Vessel.png'
     },
     {
-        title: 'Artemis',
+        title: 'Investigating the Rate of Reaction of Sodium Thiosulphate and Hydrochloric Acid in relation to Concentration',
+        link: 'https://docs.google.com/document/d/16UnopDC4PTkNrxSJ9Ko2VUAN97BoaXbNv1DUeswJSqc/edit?usp=sharing',
+        thumbnail: '/projects/Bonds.png'
+    },
+
+    {
+        title: 'Volatility Forecasting using Machine Learning',
         link: '',
-        thumbnail: '/projects/artemis.png'
+        thumbnail: '/projects/ml.png'
+    },
+    {
+        title: 'Monte Carlo Option Pricer',
+        link: '',
+        thumbnail: '/projects/montecarlo.png'
+    },
+    {
+        title: 'Portfolio Risk Sumulation',
+        link: '',
+        thumbnail: '/projects/risk.png'
     }
 ];
